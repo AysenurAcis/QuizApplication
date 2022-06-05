@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QuizApplication": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
